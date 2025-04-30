@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Timmy Lin!
 
-<!--
-**Jammer1510/Jammer1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a software engineer passionate about building practical, real-world solutions — especially in AI, full-stack development, and automation. I love turning ideas into working systems, whether it's backend APIs, embedded systems, or AI tools.
 
-Here are some ideas to get you started:
+## 🚀 Projects I'm proud of
+- 🔄 **AI PR Review Bot** – Uses OpenAI's API to auto-review GitHub pull requests.
+- 🛸 **UAV Navigation System** – Built real-time visual SLAM on a Jetson Nano using ORB-SLAM3.
+- 🧠 **Machine Learning for Chip Design** – Research project applying ML to optimize VLSI layouts.
+- 🧋 **Der-Tea Drink Manager** – Inventory + recipe manager for my family's boba shop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Use
+- **Languages:** Python, C++, Java, JavaScript
+- **AI/ML:** PyTorch, OpenCV, CUDA
+- **Dev Tools:** Docker, GitHub Actions, REST APIs, Linux
+- **Frameworks:** FastAPI, Flask, React, ROS 2
+
+## 📚 Currently Learning
+- LLMs and generative AI development
+- OpenCV + Visual SLAM for real-world robotics
+- System design at scale
+
+## 📫 Let's connect!
+- LinkedIn: [https://www.linkedin.com/in/timmy-lin-b97977183/)
+- Email: timmylin0831@gmail.com
