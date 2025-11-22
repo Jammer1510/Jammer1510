@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a software engineer passionate about building practica
 ## 🚀 Projects I'm proud of
 - 🔄 **AI PR Review Bot** – Uses OpenAI's API to auto-review GitHub pull requests.
 - 🛸 **UAV Navigation System** – Built real-time visual SLAM on a Jetson Nano using ORB-SLAM3.
-- 🧠 **Machine Learning for Chip Design** – Research project applying ML to optimize VLSI layouts.
+
 
 ## 🛠️ Technologies I Use
 - **Languages:** Python, C++, Java, JavaScript
